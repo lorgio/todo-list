@@ -4,7 +4,7 @@ TodoList
 
   Please create a todo-list application with the following capabilities:
 
-    *  Login and account creation    
+* Login and account creation    
     *  RSpec & Cucumber Tests
     *  Bonus points for incorporating      
         *  Ajax(Drag & Drop to-do items)
