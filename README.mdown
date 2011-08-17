@@ -14,14 +14,10 @@ TodoList
       * See: [Tom Preston Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
       * See: [Matt Parker](http://www.slideshare.net/moonmaster9000/readme-driven-development "README Presentation")
         
-      
-    
-
-
-
+
 Notes:
 ------
 
-Default Database is MySQL, but you can use any other one you like, e.g. SQLite3, PostgreSQL
+Default Database is SQLite3, but you can use any other one you like, e.g. MySQL, PostgreSQL
 
 After 4 hours your github access will be turned off for this repo.
